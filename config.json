@@ -1,0 +1,5 @@
+{
+    "accountID": "YOUR_UUID_HERE",
+    "apiUrl": "https://api.unminable.com/v4/account/",
+    "interval": 1000
+  }
